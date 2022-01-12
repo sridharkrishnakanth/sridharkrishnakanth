@@ -25,7 +25,7 @@
 
 <hr>
 
-<h3 align="center">My GitHub Stats</h3>
+<h3 align="center">📈 My GitHub Stats</h3>
 
 <p align="center"><a href="https://www.github.com/sridharkrishnakanth/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sridharkrishnakanth&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=48CBF0&ring=48BEF0&stroke=FFFFFFFF" alt="sridharkrishnakanth" /></a></p>
 
