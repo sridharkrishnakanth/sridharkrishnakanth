@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi <a href="https://www.github.com/sridharkrishnakanth/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3.5%"></a>, 
+    Hi <a href="https://www.github.com/sridharkrishnakanth/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height="35"></a>, 
     I'm Sridhar
 </h1>
 
