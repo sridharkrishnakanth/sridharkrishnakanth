@@ -18,7 +18,7 @@
 <h3 align="center">Here's my Discord Card!</h3>
 
 <p align="center">
-    <a href="https://discord.com/users/690496109394526258">
+    <a href="https://discord.com/users/690496109394526258" rel="noopener noreferrer">
       <img src="https://lanyard-profile-readme.vercel.app/api/690496109394526258?idleMessage=Hey%20there!&borderRadius=25px">
     </a>
 </p>
