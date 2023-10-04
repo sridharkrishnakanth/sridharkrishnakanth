@@ -9,9 +9,9 @@
     </a>
 </p>
 
-- 🌱 **I’m currently learning the basics of coding.**
+- 🌱 **I’m currently learning the basics of coding**
 
-- 😁 **Self taught.**
+- 😁 **Self taught**
 
 <br>
 
